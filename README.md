@@ -29,4 +29,4 @@ The stuff you need to know: Xcode 5 stores it's templates in it's bundle at:
 
 
 
-I leave the details of the template bundle format as a exercise for the reader. They aren't too hard to get your head around. I'd start with the apple standard `Protocol` one as it seems to be the smiliest.
+I leave the details of the template bundle format as a exercise for the reader. They aren't too hard to get your head around. I'd start with the Apple standard `Protocol` one as it seems to be the smallest.
