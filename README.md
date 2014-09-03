@@ -25,4 +25,4 @@ When you create your own templates you'll store them in your home directory at:
 
 `/Users/YourUsername/Library/Developer/Xcode/Templates/File Templates/{GroupName}`
 
-I leave the details of the template bundle format as a exercise for the reader. They aren't too hard to get your head around. I'd start with the apple standard `Protocol` one as it seems to be the smiliest.
+I leave the details of the template bundle format as a exercise for the reader. They aren't too hard to get your head around. I'd start with the Apple standard `Protocol` one as it seems to be the smallest.
